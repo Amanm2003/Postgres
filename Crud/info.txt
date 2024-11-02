@@ -1,0 +1,6 @@
+This is for performing crud operation using postgreSql.
+Crud operation are basially: Create, Read, Update & Delete in the database
+
+to run simply run the main.py and perform the operation.
+
+Note: make sure change the configurations in db.py for your db to connect
